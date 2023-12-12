@@ -74,7 +74,7 @@ html, body {
     margin: 100px auto;
  	background: rgb(255, 255, 255); /*this uses opacity of 75% for the background color*/
 	text-align: center;
-	border: 15px dashed rgb(255, 219, 112);
+	border: 15px solid rgb(255, 219, 112);
 	animation: fadeIn 5s;
 	-webkit-animation: fadeIn 5s ;
 	-moz-animation: fadeIn 5s;
@@ -87,7 +87,7 @@ html, body {
 	width: 50%;
     margin-bottom: 16px;
 	text-align: center;
-	border: 3px dashed rgb(247, 180, 183);
+	border: 3px solid rgb(247, 180, 183);
 }
 
 h6 {
